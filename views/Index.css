@@ -1,0 +1,24 @@
+body {
+    font:  Monserrat;
+    font-size: 32px;
+}
+a:hover {
+    font-size: 28px;
+    color: black;
+}
+a:link {
+    font-size: 24px;
+}
+#img {
+    float: left;
+}
+#img1 {
+    float: right;
+    margin-right: 50px;
+    margin-top: 0%;
+}
+#left {
+    margin-right: 600px;
+    text-align: left;
+    margin-left: 30px;
+}
