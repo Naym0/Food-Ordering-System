@@ -1,13 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title> Home </title>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
-    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet">	
-    <link rel="stylesheet" type="text/css" href="Index.css">
-    <link rel="icon" type="image/png" href="img/favicon.png">
-</head>
-
     <nav>
         <div class="nav-wrapper">
             <ul id="nav-mobile" class="right hide-on-med-and-down">
