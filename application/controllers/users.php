@@ -7,7 +7,7 @@
 		public function view(){
 
 			$this->load->view('templates/header');
-			$this->load->view('test-user/view');
+			$this->load->view('user/login');
 			$this->load->view('templates/footer');
 			//Communicates with the user model
 			//Manual Loading the model
