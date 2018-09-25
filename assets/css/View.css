@@ -1,6 +1,6 @@
 body {
     font:  Monserrat;
-    background-image: url("img/1.jpg");
+    background-image: url("<?php echo base_url()?>assets/img/1.jpg");
     background-repeat: no-repeat;
     background-size: 1400px 750px;
 }
