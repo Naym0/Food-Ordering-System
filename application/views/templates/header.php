@@ -1,12 +1,28 @@
 <!DOCTYPE html>
-<html>
-<head>
-    <title> Login </title>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
-    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet">
-    <link rel="stylesheet" type="text/css" href="<?php echo base_url()?>assets/css/Index.css">	
-    <link rel="stylesheet" type="text/css" href="<?php echo base_url()?>assets/css/View.css">
-    <link rel="icon" type="image/png" href="<?php echo base_url()?>assets/img/favicon.png">
-</head>
+<html lang="en">
 
-    
+
+<head>
+  <!-- Required meta tags -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <title>SU Food Ordering System</title>
+  <!-- plugins:css -->
+  <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
+  
+  <link rel="stylesheet" href="<?php echo base_url()?>assets/vendor/vendors/iconfonts/mdi/css/materialdesignicons.min.css">
+  <link rel="stylesheet" href="<?php echo base_url()?>assets/vendor/vendors/iconfonts/flag-icon-css/css/flag-icon.min.css">
+  <link rel="stylesheet" href="<?php echo base_url()?>assets/vendor/vendors/iconfonts/simple-line-icon/css/simple-line-icons.css">
+  <link rel="stylesheet" href="<?php echo base_url()?>assets/vendor/vendors/css/vendor.bundle.base.css">
+  <link rel="stylesheet" href="<?php echo base_url()?>assets/vendor/vendors/css/vendor.bundle.addons.css">
+  <!-- endinject -->
+  <!-- plugin css for this page -->
+  <!-- End plugin css for this page -->
+  <!-- inject:css -->
+
+  <link rel="stylesheet" href="<?php echo base_url()?>assets/css/style.css">
+  <link rel="stylesheet" href="<?php echo base_url()?>assets/vendor/css/style.css">
+  <!-- endinject -->
+  <link rel="shortcut icon" href="<?php echo base_url()?>assets/vendor/images/favicon.png" />
+</head>
+<body>
